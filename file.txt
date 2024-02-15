@@ -1,4 +1,9 @@
 sani ibrahim
 garba umar
 jamilu garzali
+<<<<<<< HEAD
 300c1
+=======
+300c
+400c 
+>>>>>>> fixTemp
