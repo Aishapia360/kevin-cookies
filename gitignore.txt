@@ -1,2 +1,3 @@
 #ignore all .txt files
-this is an updated Text 
+this is an updated Text
+this line is added on github
