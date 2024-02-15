@@ -1,8 +1,7 @@
 #ignore all .txt files
-<<<<<<< HEAD
+
 *.txt
 
-"yes main branch is updated also"
-=======
+
 this is an updated Text 
->>>>>>> updateText
+
